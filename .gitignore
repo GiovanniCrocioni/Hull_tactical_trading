@@ -1,0 +1,4 @@
+*.parquet
+data/kaggle_evaluation
+data/hull-tactical-market-prediction.zip
+./venv/
